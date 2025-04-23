@@ -1,0 +1,30 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "I put songs into minecraft with the help of my friends.",
+    "min_engine_version": [
+      1,
+      16,
+      20
+    ],
+    "name": "The Records Rewritten by NuttyeliGaming2.0",
+    "uuid": "92a458b4-bb93-4fab-ae29-eb257fbfabe4",
+    "version": [
+      1,
+      0,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "I put songs into minecraft with the help of my friends.",
+      "type": "resources",
+      "uuid": "480e8415-b0e8-4ede-bd01-de18541739c1",
+      "version": [
+        0,
+        0,
+        1
+      ]
+    }
+  ]
+}
